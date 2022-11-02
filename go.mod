@@ -1,4 +1,4 @@
-module common
+module github.com/annettalekto/ipkCmn
 
 go 1.19
 
